@@ -34,7 +34,8 @@ Following inferences can be drawn from the dashboard:-
 - Total Number of Pizza Sold = 49.6K
 - Total Number of Orders = 21.4K
 - Avg. Pizza Per Order = 2.3
-(https://github.com/arif246/Pizza_Sales_Analysis/assets/71145958/3f3cbd7f-a680-4b02-9af5-b21eb2518ee4)
+- ![WhatsApp Image 2024-03-05 at 18 18 44](https://github.com/arif246/Pizza_Sales_Analysis/assets/71145958/91eb56c2-d000-4682-82ad-c75bfed43325)
+
   
 
 
