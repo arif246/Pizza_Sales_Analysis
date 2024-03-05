@@ -1,6 +1,4 @@
-# Pizza_Sales_Analysis
 # Pizza Sales Report
-
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiZjY4OTI2MTEtZjg2Mi00MWRjLWJiNzgtZjFkOWFkMmY5Mjk3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 ## Problem Statement
