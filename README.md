@@ -24,6 +24,17 @@ The Pizza Sales Analysis project aims to analyze sales data from a pizza restaur
 - Menu Item Analysis: Evaluate the performance of menu items by analyzing sales volume, revenue contribution, and profitability.
 - Geospatial Analysis: Identify geographical areas with high demand for pizza delivery and optimize delivery routes for efficiency.
 - Key Performance Indicators (KPIs): Define and track KPIs such as sales revenue, average order value, customer satisfaction scores, and customer retention rates.
+  # Insights
+
+A double page report was created on Power BI Desktop & it was then published to Power BI Service.
+
+Following inferences can be drawn from the dashboard;
+### [1] Total Revenue = 817.9K
+### [1] Total Order Value = 38.3
+### [1] Total Number of Pizza Sold = 49.6K
+### [1] Total Number of Orders = 21.4K
+### [1] Avg. Pizza Per Order = 2.3
+[WhatsApp Image 2024-03-05 at 18 18 44](https://github.com/arif246/Pizza_Sales_Analysis/assets/71145958/3f3cbd7f-a680-4b02-9af5-b21eb2518ee4)
   
 
 
