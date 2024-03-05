@@ -29,11 +29,11 @@ The Pizza Sales Analysis project aims to analyze sales data from a pizza restaur
 A double page report was created on Power BI Desktop & it was then published to Power BI Service.
 
 Following inferences can be drawn from the dashboard:-
- -Total Revenue = 817.9K
+- Total Revenue = 817.9K
 - Total Order Value = 38.3
-### [1] Total Number of Pizza Sold = 49.6K
-### [1] Total Number of Orders = 21.4K
-### [1] Avg. Pizza Per Order = 2.3
+- Total Number of Pizza Sold = 49.6K
+- Total Number of Orders = 21.4K
+- Avg. Pizza Per Order = 2.3
 (https://github.com/arif246/Pizza_Sales_Analysis/assets/71145958/3f3cbd7f-a680-4b02-9af5-b21eb2518ee4)
   
 
