@@ -48,7 +48,17 @@ Following inferences can be drawn from the dashboard:-
 ### [4]
 ![WhatsApp Image 2024-03-05 at 18 21 13](https://github.com/arif246/Pizza_Sales_Analysis/assets/71145958/8a12d938-d4b6-47a6-86db-8c57749efe88)
 ![WhatsApp Image 2024-03-05 at 18 21 38](https://github.com/arif246/Pizza_Sales_Analysis/assets/71145958/7625ef70-a120-4252-9893-3d657a3d328f)![WhatsApp Image 2024-03-05 at 18 22 09](https://github.com/arif246/Pizza_Sales_Analysis/assets/71145958/95526100-5896-4328-a95a-dfc253fde21f)
-- 
-  
 
+- Classic Pizza is most sold Pizza by unit and revenue. it collected 26,91%($220,053) of Total revenue and sold 14888 units
+- By Size Large Pizza is the most sold Pizza. it collected $375,318 from total revenue.
+### [5]
+![WhatsApp Image 2024-03-05 at 18 17 07](https://github.com/arif246/Pizza_Sales_Analysis/assets/71145958/28a3e21c-d971-488a-8c2a-c99d6899a32d)
+- The Thai Chicken Pizza Contributes maximum to the Revenue and The Brie Carre Pizza Contributes minimum to the Revenue.
+### [6]
+![WhatsApp Image 2024-03-05 at 18 17 44](https://github.com/arif246/Pizza_Sales_Analysis/assets/71145958/ebedfee3-b959-4b0b-873b-126f4861bd82)
+- The Classic Deluxe Pizza Contributes maximum to the Total Quantities and The Brie Carre Pizza Contributes minimum to the Total Quantities.
+
+### [7]
+![WhatsApp Image 2024-03-05 at 18 18 17](https://github.com/arif246/Pizza_Sales_Analysis/assets/71145958/24f124d1-a559-4c53-adf5-1e94e7a00559)
+- The Classic Deluxe Pizza Contributes maximum to the Total Orders and The Brie Carre Pizza Contributes minimum to the Total Orders.
 
