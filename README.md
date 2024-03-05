@@ -38,8 +38,17 @@ Following inferences can be drawn from the dashboard:-
 - Total Number of Orders = 21.4K
 - Avg. Pizza Per Order = 2.3
  ### [2]
- 
+ ![WhatsApp Image 2024-03-05 at 18 19 59](https://github.com/arif246/Pizza_Sales_Analysis/assets/71145958/a54eb857-4295-4a2e-b858-0c17f12bdf1f)
+ - Orders are highest on weekends, Friday/Saturday and Order aor lowest on Sunday.
 
+### [3]
+ ![WhatsApp Image 2024-03-05 at 18 20 33](https://github.com/arif246/Pizza_Sales_Analysis/assets/71145958/e3be1829-dff9-493d-99c9-75867715efee)
+ - The are maximum orders from month of July and minimum orders are from the month of october.
+
+### [4]
+![WhatsApp Image 2024-03-05 at 18 21 13](https://github.com/arif246/Pizza_Sales_Analysis/assets/71145958/8a12d938-d4b6-47a6-86db-8c57749efe88)
+![WhatsApp Image 2024-03-05 at 18 21 38](https://github.com/arif246/Pizza_Sales_Analysis/assets/71145958/7625ef70-a120-4252-9893-3d657a3d328f)
+![WhatsApp Image 2024-03-05 at 18 22 09](https://github.com/arif246/Pizza_Sales_Analysis/assets/71145958/95526100-5896-4328-a95a-dfc253fde21f)
   
 
 
